@@ -2,3 +2,7 @@
 	path = smartest-odoo-gexima
 	url = git@gitlab.com:smartest-spa/smartest-odoo-gexima.git
 	branch = dev/13.0
+[submodule "smartest-odoo-app"]
+	path = smartest-odoo-app
+	url = git@gitlab.com:smartest-spa/smartest-odoo-app.git
+	branch = dev/13.0e
