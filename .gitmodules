@@ -1,0 +1,4 @@
+[submodule "smartest-odoo-gexima"]
+	path = smartest-odoo-gexima
+	url = git@gitlab.com:smartest-spa/smartest-odoo-gexima.git
+	branch = dev/13.0
